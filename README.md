@@ -1,6 +1,6 @@
 # Special Antennas
 
-This repository contains the assignments for the **Special Antennas** course at the ECE AUTH during the 2024–2025 academic year.
+This repository contains the assignments for the **Special Antennas** course at ECE AUTH during the 2024–2025 academic year.
 
 ## 📋 Contents
 
